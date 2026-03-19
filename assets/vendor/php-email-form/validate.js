@@ -71,7 +71,7 @@
         "smtp_server": "smtp.gmail.com",
         "smtp_port": "587",
         "smtp_username": "johnmfula360@gmail.com",
-        "smtp_password": "test",
+        "smtp_password": "erkp fcwj rklt qkqy",
         "body": `Contact Form Submission\n\nFull Name: ${name}\nEmail Address: ${email}\n\nMessage:\n${message}`
       };
 
